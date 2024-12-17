@@ -20,7 +20,7 @@ This is a simple and user-friendly **To-Do Application** built using HTML, CSS, 
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/KlizoDebasish/TODO_APPLICATION)
    ```
 2. Navigate to the project folder:
    ```bash
