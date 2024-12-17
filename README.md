@@ -28,6 +28,9 @@ This is a simple and user-friendly **To-Do Application** built using HTML, CSS, 
    ```
 3. Open the `index.html` file in your web browser to start using the application.
 
+## Documentation
+https://docs.google.com/document/d/1oW5L9c6-w9CMbD9w65RHU5KmEU7fguQ_A5oNl2V2G4g/edit?usp=sharing
+
 ## Live Demo
 
 Experience the live version of the To-Do Application here: [Live Demo](https://klizostodoapplication.netlify.app)
