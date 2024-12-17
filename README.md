@@ -32,6 +32,12 @@ This is a simple and user-friendly **To-Do Application** built using HTML, CSS, 
 
 Experience the live version of the To-Do Application here: [Live Demo](https://klizostodoapplication.netlify.app)
 
+## Screenshots
+
+## Home Page
+![Screenshot (16)](https://github.com/user-attachments/assets/e9438889-5557-4873-8876-b3e00f0fdfec)
+
+
 ## Folder Structure
 
 ```
